@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gallasDetailingPublic/static/css/main.c1619321.css",
-    "main.js": "/gallasDetailingPublic/static/js/main.1ad55193.js",
+    "main.js": "/gallasDetailingPublic/static/js/main.cc2fec9e.js",
     "static/media/opacity_3.jpg": "/gallasDetailingPublic/static/media/opacity_3.b8e69ef6e5b028fe707f.jpg",
     "static/media/exterior.png": "/gallasDetailingPublic/static/media/exterior.84a0a8eb2f79671e99e0.png",
     "static/media/paintCorrect.png": "/gallasDetailingPublic/static/media/paintCorrect.d81866db7f1ed17a65d5.png",
@@ -22,10 +22,10 @@
     "static/media/output-onlinepngtools.png": "/gallasDetailingPublic/static/media/output-onlinepngtools.25e0a10d7a0e4c7c9902.png",
     "index.html": "/gallasDetailingPublic/index.html",
     "main.c1619321.css.map": "/gallasDetailingPublic/static/css/main.c1619321.css.map",
-    "main.1ad55193.js.map": "/gallasDetailingPublic/static/js/main.1ad55193.js.map"
+    "main.cc2fec9e.js.map": "/gallasDetailingPublic/static/js/main.cc2fec9e.js.map"
   },
   "entrypoints": [
     "static/css/main.c1619321.css",
-    "static/js/main.1ad55193.js"
+    "static/js/main.cc2fec9e.js"
   ]
 }
