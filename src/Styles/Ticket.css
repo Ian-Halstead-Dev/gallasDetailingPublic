@@ -1,0 +1,70 @@
+.app {
+  display: flex;
+  background-color: #818181;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 800px; /* Increased max-width for better readability */
+  padding: 20px;
+  font-family: 'Arial', sans-serif;
+}
+
+.ticket-form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.title {
+  margin-bottom: 20px; /* Increased margin for better separation */
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 24px; /* Adjusted font-size for better hierarchy */
+  text-align: center; /* Centered title text */
+}
+
+.step {
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #fff; /* Added background color to steps for clarity */
+}
+
+.step h1 {
+  margin-bottom: 10px;
+  font-size: 20px; /* Adjusted font-size for step titles */
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.step div {
+  margin-bottom: 10px;
+}
+
+label {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input, textarea, select {
+  width: 100%; /* Full width input fields */
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px; /* Adjusted font size for better readability */
+}
+
+button {
+  align-self: center;
+  padding: 12px 24px;
+  margin-top: 20px; /* Increased margin-top for button */
+  background-color: #218838;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px; /* Adjusted font size for button */
+}
+
+button:hover {
+  background-color: #1e7e34; /* Darkened hover color for button */
+}
