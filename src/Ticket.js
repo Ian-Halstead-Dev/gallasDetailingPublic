@@ -64,7 +64,7 @@ export function Ticket() {
 
   return (
     <div className="app">
-      <h1 className="title">Gallas Detailing Ticket Form</h1>
+      <h1 className="title">Galles Detailing Ticket Form</h1>
       <form onSubmit={handleSubmit} className="ticket-form">
         <div className="step" id="step-1">
           <h1>Step 01</h1>
